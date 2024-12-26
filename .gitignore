@@ -1,0 +1,26 @@
+/application/vendor
+/application/node_modules
+/application/public/build
+/application/public/hot
+/application/public/storage
+/application/storage/*.key
+/application/storage/pail
+/application/.env
+/application/.env.backup
+/application/.env.production
+/application/.phpunit.cache
+/application/.phpactor.json
+/application/.phpunit.result.cache
+/application/Homestead.json
+/application/Homestead.yaml
+/application/auth.json
+/application/npm-debug.log
+/application/yarn-error.log
+
+# IDE and editor-specific files
+/.fleet
+/.idea
+/.nova
+/.vscode
+/.zed
+.DS_Store
